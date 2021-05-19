@@ -3,7 +3,7 @@
 - cdn加速使用
 
 ```
-  5、通过jsDelivr引用资源
+  通过jsDelivr引用资源
   使用方法：https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
   
   例如：
@@ -32,7 +32,27 @@
   https://cdn.jsdelivr.net/gh/jquery/jquery/
 ```
 
+- 其他说明
+
+```
+gitee图床暂时关闭了，暂时放在此处，后续移动到soft_test文件夹  2021年5月18日00:24:10
+
+	1.绿色网络环境改造将会持续多久？
+
+	从2021年5月开始，预计会持续3到4个月。
+
+	2.改造期间是否会全面暂停Gitee Pages？
+
+	否，已开通Gitee Pages的仓库可以继续正常使用，但是一旦暂停本服务后，无法重新开启；
+
+	尚未开通的仓库在改造期间，无法开通本服务。	
+	
+改成github 中的images仓库  采用cdn方式访问
+```
+
+
+
 - 个人账户加载图片举例
 
-https://cdn.jsdelivr.net/gh/j0012799/images/xxx.png
+https://cdn.jsdelivr.net/gh/xuchaom/images/soft_test/xxx.png
 
