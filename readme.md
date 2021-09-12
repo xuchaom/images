@@ -56,3 +56,5 @@ gitee图床暂时关闭了，暂时放在此处，后续移动到soft_test文件
 
 https://cdn.jsdelivr.net/gh/xuchaom/images/soft_test/xxx.png
 
+- picgo配置图片
+[](https://cdn.jsdelivr.net/gh/xuchaom/images/python/202109121332487.png)
