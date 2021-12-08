@@ -1,7 +1,7 @@
 ::@echo off
 @title bat 交互执行git命令
 E:
-cd E:/learning
+cd E:/images
 :: 系统中不足两位时, 是补空格的, 我们判断到时空格, 用0来替换就可以了
 set hour=%time:~,2%
 if "%time:~,1%"==" " set hour=0%time:~1,1%
