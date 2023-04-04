@@ -54,6 +54,8 @@ gitee图床暂时关闭了，暂时放在此处，后续移动到soft_test文件
 
 - 个人账户加载图片举例
 
+https://cdn.jsdelivr.net/gh/xuchaom
+
 https://cdn.jsdelivr.net/gh/xuchaom/images/soft_test/xxx.png
 
 - picgo配置图片
